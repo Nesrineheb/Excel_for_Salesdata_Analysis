@@ -10,4 +10,4 @@ In this project,I learned the foundation of data analysis with Microsoft Excel u
 * Perform data analysis using PivotTables.
 
 # Charts and Dasboard 
-![Dashboard page](dashboar.png)
+![Dashboard page](dashboard.png)
