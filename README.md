@@ -8,3 +8,6 @@ In this project,I learned the foundation of data analysis with Microsoft Excel u
 * Perform data mining using the IF function.
 * Create references between tables and search for information with VLOOKUP.
 * Perform data analysis using PivotTables.
+
+# Charts and Dasboard 
+![Dashboard page](dashboar.png)
